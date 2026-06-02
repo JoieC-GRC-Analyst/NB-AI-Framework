@@ -32,7 +32,7 @@ We use a tiered approach to classify risk, combined with a **5-stage SANS maturi
 
 ### **⚖️ Legal & IP**
  * **Status:** Independent research initiative.
- * **License:** MIT License.
+ * **License:** Creative Commons Attribution 4.0 International (CC BY 4.0).
  * **Ownership:** This framework is a public good. It is **not** the intellectual property of any employer—it belongs to the NB community.
 
 ### **🤝 How to Contribute**
