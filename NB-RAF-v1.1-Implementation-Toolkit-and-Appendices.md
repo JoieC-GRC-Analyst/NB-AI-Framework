@@ -6,7 +6,7 @@
 ## Table of Contents
 1. [Purpose of This Toolkit](#1-purpose-of-this-toolkit)
 2. [How to Use This Document](#2-how-to-use-this-document)
-3. [Appendix A — Model Card Template](#appendix-a--model-card-template](https://github.com/JoieC-GRC-Analyst/NB-AI-Framework/blob/main/templates/model-card.md))
+3. [Appendix A — Model Card Template](#appendix-a--model-card-template)
 4. [Appendix B — AI System Summary](#appendix-b--ai-system-summary)
 5. [Appendix C — AI Procurement Checklist](#appendix-c--ai-procurement-checklist)
 6. [Appendix D — OCAP®-Aligned Indigenous Data Governance Workflow](#appendix-d--ocap-aligned-indigenous-data-governance-workflow)
