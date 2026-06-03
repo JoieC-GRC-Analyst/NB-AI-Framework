@@ -45,9 +45,13 @@ We use a tiered approach to classify risk, combined with a **5-stage SANS maturi
  * **License:** Creative Commons Attribution 4.0 International (CC BY 4.0).
  * **Ownership:** This framework is a public good. It is **not** the intellectual property of any employer—it belongs to the NB community.
 
-### **🤝 How to Contribute**
-This is a living draft. It needs scrutiny from public sector employees, Indigenous governance partners, tech practitioners, and civil society.
- * **See an error?** Open an Issue
- * **Have an idea?** Submit a Pull Request
- * **Just want to chat?** Reach out on LinkedIn.
+## 🤝 How to Contribute
+
+This framework is a living draft. Contributions from public sector employees, Indigenous governance partners, cybersecurity practitioners, and the NB tech community are welcome.
+
+- See an issue → open an Issue  
+- Have an idea → submit a Pull Request  
+- Want to collaborate → reach out on LinkedIn  
+
+This framework is licensed under **CC BY 4.0** and is intended as a public good for New Brunswick.
 *#ResponsibleAI #NewBrunswick #AIGovernance #CyberSecureNB #GRC #AITrust*
