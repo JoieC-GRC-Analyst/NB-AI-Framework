@@ -12,6 +12,20 @@
   Operational tools, templates, checklists, and governance workflows aligned to the framework.  
   → `NB-RAF-v1.1-Implementation-Toolkit-and-Appendices.md`
 
+  ## 📁 Templates for Each Appendix
+
+All appendices in the NB‑RAF Implementation Toolkit are also available as clean, standalone Markdown templates in the `/templates` folder. These files are formatted for easy copying, editing, and contribution.
+
+- [Model Card](templates/model-card.md)
+- [AI System Summary](templates/ai-system-summary.md)
+- [AI Procurement Checklist](templates/procurement-checklist.md)
+- [OCAP® Governance Workflow](templates/ocap-governance.md)
+- [CyberSecure NB Checklist](templates/cybersecure-nb-checklist.md)
+- [Bias Audit Checklist](templates/bias-audit-checklist.md)
+- [RAG Validation Checklist](templates/rag-validation-checklist.md)
+
+These templates ensure consistent formatting across all contributors and support modular editing without modifying the main Toolkit document.
+
 ### **The Vision**
 AI is being integrated into New Brunswick’s sectors at a rapid pace. We face a critical gap: **the lack of a shared, provincial standard for responsible AI deployment.** This framework ensures that when we adopt AI, we do so with security, equity, and the specific needs of New Brunswickers—our bilingual communities, our First Nations, and our SMEs—at the forefront.
 
