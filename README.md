@@ -2,6 +2,16 @@
 
 ### *Practitioner-built · Community-owned · Open Consultation*
 
+## 📄 Core Documents
+
+- **NB‑RAF v1.1 — Framework (PDF)**  
+  The main governance standard for responsible AI in New Brunswick.  
+  → `nb-ai-framework-v1.1.pdf`
+
+- **NB‑RAF v1.1 — Implementation Toolkit & Appendices (Markdown)**  
+  Operational tools, templates, checklists, and governance workflows aligned to the framework.  
+  → `NB-RAF-v1.1-Implementation-Toolkit-and-Appendices.md`
+
 ### **The Vision**
 AI is being integrated into New Brunswick’s sectors at a rapid pace. We face a critical gap: **the lack of a shared, provincial standard for responsible AI deployment.** This framework ensures that when we adopt AI, we do so with security, equity, and the specific needs of New Brunswickers—our bilingual communities, our First Nations, and our SMEs—at the forefront.
 
