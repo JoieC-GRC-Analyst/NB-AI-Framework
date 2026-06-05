@@ -6,7 +6,7 @@
 
 - **NB‑RAF v1.1 — Framework (PDF)**  
   The main governance standard for responsible AI in New Brunswick.  
-  → `nb-ai-framework-v1.1.pdf`
+  → `nb-responsibleai-framework-v1.1.pdf`
 
 - **NB‑RAF v1.1 — Implementation Toolkit & Appendices (Markdown)**  
   Operational tools, templates, checklists, and governance workflows aligned to the framework.  
